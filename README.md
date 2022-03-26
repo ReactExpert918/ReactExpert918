@@ -30,7 +30,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="#">
-    <img width="65%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ReactExpert918&theme=react&border=61dafb&hide_border=true" />
+    <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ReactExpert918&theme=react&border=61dafb&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
