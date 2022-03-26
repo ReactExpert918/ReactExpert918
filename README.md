@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Harry Potter, a Fullstack Specialist 🚀 from Sweden.
+## Hi, I'm a Fullstack 🚀 Specialist.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
