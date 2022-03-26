@@ -37,21 +37,21 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
   <br />
-  <code><img width="10%" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <a><img width="10%" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a>
+  <a><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></a>
 </p>
 
 <!-- Your hits or visitors
