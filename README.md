@@ -5,8 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ReactExpert918)
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/) -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ReactExpert918/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:potterharrry0918@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:harrypotter0918@outlook.com)
@@ -19,9 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently  [FREE NOW];
+- 👨🏽‍💻 I’m currently FREE NOW;
 - 🌱 I’m currently learning about Swift and Object C; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 💬 Ask me about React and Vue, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: potterharrry0918@gmail.com;
@@ -39,21 +37,21 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/index.html"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/index.html"></code>
+  <code><img width="10%" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/index.html"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/index.html"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/asana/index.html"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
 </p>
 
 <!-- Your hits or visitors
